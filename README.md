@@ -1,3 +1,3 @@
 # mytest_repository
-myfirsttest udpate 1
+myfirsttest udpate s1
 
