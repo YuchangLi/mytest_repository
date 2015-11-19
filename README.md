@@ -1,3 +1,3 @@
 # mytest_repository
-myfirsttest udpate s1
+myfirsttest udpate local2
 
